@@ -45,10 +45,8 @@ En muchas ocasiones, el trabajo de los demás también es un buen punto de parti
 **NOTA AL PIE**
 
 - C: te enseña a programar de manera eficiente.
-
 - Java: uno de los lenguajes más útiles de aprender de cara al mercado laboral actual.
-
 - Python y PHP: son fáciles y divertidos de aprender.
-
 - Javascript: para dar el salto a la programación web.
+{: .notice}
 
