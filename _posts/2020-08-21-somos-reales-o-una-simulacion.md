@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Somos reales o una simulación"
-date:   2020-08-18
+date:   2020-08-21
 excerpt: "La idea de que somos parte de una simulación tiene algunos simpatizantes de alto perfil."
-tag:[realidad, vida, simulacion]
+tag:
+  - realidad 
+  - vida 
+  - simulacion
 ---
 
 ## ¿Somos reales o una simulación?
