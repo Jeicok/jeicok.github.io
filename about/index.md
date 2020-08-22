@@ -1,22 +1,27 @@
 ---
 layout: page
-title: About the Theme
+title: Sobre mi
 tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+date: 2020-08-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jeison hurtado](https://jeicok.github.io/assets/img/jei-hur.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>Jeison Hurtado</b> </center>
 
-## About
+## Sobre mi
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+Me llamo Jeison Steven Hurtado Bimbela, nací el 05 de diciembre de 1997 en la ciudad de Guayaquil. Actualmente tengo 22 años. 
 
+Iniciando desde la historia prenatal, soy el tercer hijo de cinco por mi madre Azucena Bimbela y mi padre Ítalo Hurtado.
 
-If you like this theme or using it, please give a **star** for motivation.
+En mi infancia que fue alrededor de los 3 años, mi madre cuenta que era tranquilo, no lloraba, no molestaba y que era muy dormilón, que solo me cargaba para darme de comer, bañarme, dormir y hacerme juegos por ratos, de ahí solo pasaba tranquilo. 
 
-You want to **use it?**      
+En la etapa escolar era muy tranquilo, aplicado y atento. Mi madre no era muy estricta con las calificaciones, pero me reprendía cuando bajaba alguna nota.
+Mi primaria la realicé en la escuela particular “Telmo Marquina” hasta 6mo grado, donde luego me cambie a la escuela fiscal “Alfredo Barandearan Samaniego” por falta de economía, por tanto, en dicha escuela fue donde termine mi periodo escolar. 
 
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+En la etapa de la adolescencia que fue en el colegio “Modesto Carbo” era estudioso, atento y dedicado hasta 10mo luego empecé a bajar mi rendimiento académico.
+
+Realicé y terminé mis estudios secundarios en el Colegio Experimental “Eloy Alfaro” Allí empecé a conocer todo tipo de personas y a darme cuenta a como es el mundo realmente.
+
