@@ -5,8 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2020-08-21
 ---
 
-![jeison hurtado](https://jeicok.github.io/assets/img/jei-hur.jpg)
-{: .image-pull-right}
+<center><img src="https://jeicok.github.io/assets/img/jei-hur.jpg" alt="jeison hurtado" style="weigth: 50%;"></center>
 
 <center><b>Jeison Hurtado</b> </center>
 
