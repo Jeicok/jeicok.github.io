@@ -1,9 +1,9 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Blog
+bio:            'Hola, soy jeison'
+description:    "Bienvenidos a mi Blog personal"
 picture:        'assets/img/profile.png'
-locale:         en_US
+locale:         en_ES
 url:            https://alperenbozkurt.github.io/JBlog
 
 
