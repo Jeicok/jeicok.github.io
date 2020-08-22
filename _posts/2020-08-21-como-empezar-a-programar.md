@@ -8,7 +8,7 @@ tags: [sample post, images, test]
 
 Durante años, la programación era ese sector de la economía mundial reservado para los mal llamados frikis. Un estereotipo falso y muy perjudicial. En gran medida ha alejado a muchos estudiantes de lo que habría sido una oportunidad profesional excelente. Hoy en día existen administraciones públicas y organizaciones y grupos profesionales vinculados a la investigación que se están movilizando para cambiar esa tendencia tan negativa. Y lo han hecho con éxito.
 
-<q>Un programador al nacer no llora, dice “Hola mundo”.</q>
+<blockquote>Un programador al nacer no llora, dice “Hola mundo”.</blockquote>
 
 Antes de acudir a internet y empezar a picar código, es un ejercicio muy práctico informarse sobre el tipo de lenguaje que queremos aprender primero. Es un debate casi tan antiguo como el origen de la programación. Que si PHP, que si Ruby, Python, BASIC, Objective-C, C, C + +… o Java. Existe un índice (TIOBE Index) que cada mes establece un ranking muy interesante sobre la popularidad de los lenguajes de programación dentro del sector. Es posible que, si realmente tienes decidido aprender a programar, escojas uno donde exista mercado profesional. Aquí tienes un pequeño gráfico con los datos del estudio.
 
