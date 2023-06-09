@@ -77,7 +77,7 @@ Después de todo, diseñas a unos agentes en una simulación para que funcionen 
 En el fondo de este debate reposa una idea que quizás disminuya la preocupación por determinar si solo somos información manipulada por una gigantesca computadora.
 
 
-<img src="https://zentrologos.com/wp-content/uploads/2019/11/fisica-cuant-3-550x366-1.jpg" alt="cuantica">
+<img src="https://cso.computerworld.es/archivos/201712/computacion-cuantica_2.jpg" alt="cuantica">
 
 
 Para algunos físicos, eso es lo que el mundo real es, en cualquier caso.
