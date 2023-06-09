@@ -28,7 +28,7 @@ El segundo escenario, en cambio -al que se adhieren personalidades como Musk-, s
 En este Universo no hay escape al estilo Matrix: este es el lugar donde vivimos y es nuestra única oportunidad de vivir.
 
 
-<img src="https://primerobahia.com/wp-content/uploads/2019/11/universo-e1551279332781.jpg" alt="Universo">
+<img src="https://concepto.de/wp-content/uploads/2014/08/universo-e1551279332781.jpg" alt="Universo">
 
 
 Pero, ¿por qué creer esta posibilidad tan rebuscada? La respuesta es sencilla: ya recreamos el mundo a través de la realidad virtual.
